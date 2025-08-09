@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="120"/>
 </div>
 
-# <h1 align="center">
+#<h1 align="center">
   TYPESCRIPT
 </h1>
 
