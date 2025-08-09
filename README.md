@@ -60,7 +60,11 @@ TYPESCRIPT/
 │   ├── array.ts               # Array methods and typing
 │   ├── object.ts              # Object typing and aliases
 │   └── call_signature.ts      # Function signatures in objects
-├── day_003/                    # Coming soon...
+├── day_003/                    # Advanced Types: Enums, Tuples, Union & Intersection
+│   ├── README.md              # Detailed documentation
+│   ├── Enums.ts               # String enums and role-based access
+│   ├── Tuples.ts              # Fixed-length arrays with types
+│   └── Union_and_Intersection.ts  # Union and intersection types
 └── README.md                   # This overview
 ```
 
@@ -171,13 +175,32 @@ This is a personal learning journal, but if you're following along:
 - 📄 **Documentation:** [`day_002/README.md`](day_002/README.md)
 - 🔢 **Arrays:** [`day_002/array.ts`](day_002/array.ts)
 - 🏗️ **Objects:** [`day_002/object.ts`](day_002/object.ts)
-- 📞 **Call Signatures:** [`day_002/call_signature.ts`](day_002/call_signature.
+- 📞 **Call Signatures:** [`day_002/call_signature.ts`](day_002/call_signature.ts)
 
 **Key Learning:** Mastering TypeScript's approach to complex data structures and function typing within objects.
 
+---
 
+### 🎯 Day 3 – Advanced Types: Enums, Tuples, Union & Intersection
 
-## 🤝 Let’s Connect
+**Core Concepts Covered:**
+- **Enums**: String enums for type-safe constants and role-based access control
+- **Tuples**: Fixed-length arrays with specific types and readonly modifiers
+- **Union Types**: OR logic with `|` operator for flexible parameters
+- **Intersection Types**: AND logic with `&` operator and understanding the `never` type
+
+**Files:**
+- 📂 **Folder:** [`day_003/`](day_003/)
+- 📄 **Documentation:** [`day_003/README.md`](day_003/README.md)
+- 📋 **Enums:** [`day_003/Enums.ts`](day_003/Enums.ts)
+- 📦 **Tuples:** [`day_003/Tuples.ts`](day_003/Tuples.ts)
+- 🔀 **Union & Intersection:** [`day_003/Union_and_Intersection.ts`](day_003/Union_and_Intersection.ts)
+
+**Key Learning:** Understanding advanced type system features that enable robust, type-safe applications with flexible yet controlled data structures.
+
+---
+
+## 🤝 Let's Connect
 
 GitHub: [kushkumarkashyap7280](https://github.com/kushkumarkashyap7280)
 📫 Always happy to connect, collaborate, or share ideas!
