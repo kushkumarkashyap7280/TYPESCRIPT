@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="120"/>
 </div>
 
-# TypeScript Learning Journal
+#<h1 align="center">
+  TYPESCRIPT
+</h1>
 
 Welcome to my **TypeScript Journey**! 🚀
 
