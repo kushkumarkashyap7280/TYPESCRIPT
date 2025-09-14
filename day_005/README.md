@@ -35,7 +35,9 @@ To run the examples in this folder:
 
 ```bash
 # Compile TypeScript files
-tsc
+
+bun run tsc --watch
+
 
 # Open index.htm in your browser to view the results
 ```

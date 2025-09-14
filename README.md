@@ -67,6 +67,18 @@ TYPESCRIPT/
 │   ├── Enums.ts               # String enums and role-based access
 │   ├── Tuples.ts              # Fixed-length arrays with types
 │   └── Union_and_Intersection.ts  # Union and intersection types
+├── day_004/                    # Generics & Interfaces
+│   ├── README.md              # Detailed documentation
+│   ├── generics.ts            # Generic types and functions
+│   ├── interface.ts           # Interface declarations
+│   └── interface.js           # Compiled JavaScript
+├── day_005/                    # Project Structure & Configuration
+│   ├── README.md              # Detailed documentation
+│   ├── index.htm              # HTML file for browser execution
+│   ├── tsconfig.json          # Project-specific TypeScript configuration
+│   └── src/                   # Source directory
+│       ├── app.ts             # Main application logic
+│       └── script.ts          # Additional TypeScript examples
 └── README.md                   # This overview
 ```
 
@@ -199,6 +211,44 @@ This is a personal learning journal, but if you're following along:
 - 🔀 **Union & Intersection:** [`day_003/Union_and_Intersection.ts`](day_003/Union_and_Intersection.ts)
 
 **Key Learning:** Understanding advanced type system features that enable robust, type-safe applications with flexible yet controlled data structures.
+
+---
+
+### 🧩 Day 4 – Generics & Interfaces
+
+**Core Concepts Covered:**
+- **Generics**: Type-safe functions and classes with flexible type parameters
+- **Function Overloading**: Multiple type signatures for the same function
+- **Interfaces**: Defining object shapes and contracts for type checking
+
+**Files:**
+- 📂 **Folder:** [`day_004/`](day_004/)
+- 📄 **Documentation:** [`day_004/README.md`](day_004/README.md)
+- 🧩 **Generics:** [`day_004/generics.ts`](day_004/generics.ts)
+- 📝 **Interfaces:** [`day_004/interface.ts`](day_004/interface.ts)
+
+**Key Learning:** Implementing reusable, type-safe code patterns with generics and defining clear interfaces for object structures.
+
+---
+
+### 🏗️ Day 5 – Project Structure & Configuration
+
+**Core Concepts Covered:**
+- **Project Structure**: Organizing TypeScript files in a real project
+- **Configuration**: Advanced `tsconfig.json` settings
+- **Browser Integration**: Running TypeScript in the browser
+- **Module System**: Using ES modules in TypeScript
+
+**Files:**
+- 📂 **Folder:** [`day_005/`](day_005/)
+- 📄 **Documentation:** [`day_005/README.md`](day_005/README.md)
+- 🌐 **HTML Integration:** [`day_005/index.htm`](day_005/index.htm)
+- ⚙️ **Configuration:** [`day_005/tsconfig.json`](day_005/tsconfig.json)
+- 📂 **Source Files:**
+  - 📝 [`day_005/src/app.ts`](day_005/src/app.ts)
+  - 📝 [`day_005/src/script.ts`](day_005/src/script.ts)
+
+**Key Learning:** Structuring a TypeScript project for scalability with proper configuration and organization patterns.
 
 ---
 
